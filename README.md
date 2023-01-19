@@ -1,5 +1,7 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karamjit-singh-98065b112/)
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-%E47C24.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5325010/karamjit-singh)
+[![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@karamjitsingh1989)
+
 
 
 
