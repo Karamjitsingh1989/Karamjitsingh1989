@@ -3,9 +3,9 @@
 [![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@karamjitsingh1989)
 
 
+### Hi there, I am Karamjit Singh
 
-
-- 📱 iOS Developer 
+- 📱 Senior iOS Developer 
 - 📱 Flutter Developer
 
 
